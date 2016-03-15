@@ -1,0 +1,5 @@
+F:\MyWorks\山东国土测绘院相关工作\Esri紧凑型文件压缩\EsriBundle\EsriBundle.IO\bin\Debug\EsriBundle.IO.dll
+F:\MyWorks\山东国土测绘院相关工作\Esri紧凑型文件压缩\EsriBundle\EsriBundle.IO\bin\Debug\EsriBundle.IO.pdb
+F:\MyWorks\山东国土测绘院相关工作\Esri紧凑型文件压缩\EsriBundle\EsriBundle.IO\obj\Debug\EsriBundle.IO.dll
+F:\MyWorks\山东国土测绘院相关工作\Esri紧凑型文件压缩\EsriBundle\EsriBundle.IO\obj\Debug\EsriBundle.IO.pdb
+F:\MyWorks\山东国土测绘院相关工作\Esri紧凑型文件压缩\EsriBundle\EsriBundle.IO\obj\Debug\EsriBundle.IO.csprojResolveAssemblyReference.cache

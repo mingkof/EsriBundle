@@ -1,0 +1,7 @@
+F:\MyWorks\山东国土测绘院相关工作\Esri紧凑型文件压缩\EsriBundle\Test\bin\Debug\Test.exe
+F:\MyWorks\山东国土测绘院相关工作\Esri紧凑型文件压缩\EsriBundle\Test\bin\Debug\Test.pdb
+F:\MyWorks\山东国土测绘院相关工作\Esri紧凑型文件压缩\EsriBundle\Test\bin\Debug\EsriBundle.IO.dll
+F:\MyWorks\山东国土测绘院相关工作\Esri紧凑型文件压缩\EsriBundle\Test\bin\Debug\EsriBundle.IO.pdb
+F:\MyWorks\山东国土测绘院相关工作\Esri紧凑型文件压缩\EsriBundle\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+F:\MyWorks\山东国土测绘院相关工作\Esri紧凑型文件压缩\EsriBundle\Test\obj\Debug\Test.exe
+F:\MyWorks\山东国土测绘院相关工作\Esri紧凑型文件压缩\EsriBundle\Test\obj\Debug\Test.pdb

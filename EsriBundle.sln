@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsriBundle.IO", "EsriBundle.IO\EsriBundle.IO.csproj", "{DD20136C-75C4-44C9-A05E-3E6AE89A85FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{8CAF68BF-4696-4C65-9032-8E387331AB3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsriBundleManager", "EsriBundleManager\EsriBundleManager.csproj", "{A5FC0B98-796F-4F2E-A59F-E9810003F7F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD20136C-75C4-44C9-A05E-3E6AE89A85FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD20136C-75C4-44C9-A05E-3E6AE89A85FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD20136C-75C4-44C9-A05E-3E6AE89A85FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD20136C-75C4-44C9-A05E-3E6AE89A85FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CAF68BF-4696-4C65-9032-8E387331AB3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CAF68BF-4696-4C65-9032-8E387331AB3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CAF68BF-4696-4C65-9032-8E387331AB3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CAF68BF-4696-4C65-9032-8E387331AB3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5FC0B98-796F-4F2E-A59F-E9810003F7F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5FC0B98-796F-4F2E-A59F-E9810003F7F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5FC0B98-796F-4F2E-A59F-E9810003F7F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5FC0B98-796F-4F2E-A59F-E9810003F7F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
